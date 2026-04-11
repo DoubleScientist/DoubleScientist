@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DoubleScientist
-- 👀 I’m interested in machine learning and artificial intelligence
-- 🌱 I’m currently learning deep learning and computer vision
-- 💞️ I’m looking to collaborate on machine learning project
+- 👀 I’m interested in bioinformatics and data analytics
+- 🌱 I’m currently learning data analytics at IOTBTECH
+- 💞️ I’m looking to collaborate on molecular docking project
 - 📫 How to reach me https://www.linkedin.com/in/jibril-mohammed-69069b19a
 
 <!---
